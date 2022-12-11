@@ -9,4 +9,4 @@ The aim of this is to classify the types of date fruit, that are, Barhee, Deglet
 
 Models like Logistic Regression, KNN and XGB were used in this project.
 
-Fun Fact: I have used ChatGPT in some parts of the code.
+__Fun Fact:__ I have used ChatGPT in some parts of the code.
